@@ -20,7 +20,7 @@ ribbon:
 
 spring:
   rabbitmq:
-     host: 123.206.50.50
+    host: 123.206.50.50
     username: root
     password: kshop
   sleuth:
