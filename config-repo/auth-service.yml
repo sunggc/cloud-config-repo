@@ -21,6 +21,6 @@ spring:
     url: jdbc:mysql://123.206.50.50:3306/test?useUnicode=true&characterEncoding=utf8&useSSL=false
     username: test
     password: test
-    initialize: false
+    initialize: true
   jpa:
     show-sql: true
