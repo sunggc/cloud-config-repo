@@ -19,8 +19,8 @@ spring:
     type: com.alibaba.druid.pool.DruidDataSource
     driverClassName: com.mysql.jdbc.Driver
     url: jdbc:mysql://123.206.50.50:3306/test?useUnicode=true&characterEncoding=utf8&useSSL=false
-    username: ENC(abdq6LyOspryFQHCqzEMTxRozyJVjIA4)
-    password: ENC(abdq6LyOspryFQHCqzEMTxRozyJVjIA4)
+    username: ENC(dlveeflIH/AMcZLBGbFjVw==)
+    password: ENC(dlveeflIH/AMcZLBGbFjVw==)
     initialize: false
     druid:
       max-active: 20
