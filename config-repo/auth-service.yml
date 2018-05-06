@@ -25,10 +25,7 @@ spring:
     druid:
       max-active: 20
       initial-size: 1
-      max-wait: 60000
-      max-active: 20
-      initial-size: 1
-      max-wait: 60000
+      max-wait: 60000     
       min-idle: 3
       remove-abandoned: true
       remove-abandoned-timeout: 180
