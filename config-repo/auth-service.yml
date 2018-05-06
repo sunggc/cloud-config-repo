@@ -26,10 +26,10 @@ spring:
       max-active: 20
       initial-size: 1
       max-wait: 60000
-      spring.datasource.druid.max-active: 20
-      spring.datasource.druid.initial-size: 1
-      spring.datasource.druid.max-wait: 60000
-      spring.datasource.druid.min-idle: 3
+      max-active: 20
+      initial-size: 1
+      max-wait: 60000
+      min-idle: 3
       remove-abandoned: true
       remove-abandoned-timeout: 180
       connection-properties: clientEncoding=UTF-8
